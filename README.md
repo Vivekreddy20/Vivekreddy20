@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VIVEK_REDDY
 - 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate
 - 📫 my mailid:kanthala.v.r27@gmail.com
 
