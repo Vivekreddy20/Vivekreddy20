@@ -4,7 +4,7 @@
 <p>Hi there! i'm Vivek reddy a Highly motivated and dedicated B.Tech student pursuing Computer Science Engineering at Vignana Bharathi institute of Technology. Possesses a strong passion for technology and a desire to excel in the field of computer science.Adept at working in a team-oriented environment and effectively collaborating with peers to achieve project goals. Exceptional communication skills enable clear articulation of ideas and effective interaction with team members.</p>
 <h2>Skills & interests</h2>
 <p><b>Programming Languages:</b> Java,C,javascript,HTML,CSS,Python</p>
-<p><b>Frameworks:</b> Bootstrap,Reactjs,Nodejs</p>
+<p><b>Frameworks:</b> TailwindCSS,Reactjs,Nextjs</p>
 <p><b>Data Structures and Algorithms:</b> Structuring information for efficiency</p>
 <p><b>Developer Tools:</b> Git,Github,VScode</p>
 <p><b>Academic CourseWork:</b> Data Structures,OOPS,CNS,OS,DBMS</p>
